@@ -2,6 +2,7 @@
 layout: post
 title: First Post
 author: mparlee@gmail.com (Michael Parlee)
+date: '2020-02-23 19:35:00 -0800'
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
