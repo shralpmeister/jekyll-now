@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Post
-author: mparlee@gmail.com (Michael Parlee)
+author: Michael Parlee
 date: '2020-02-23 19:35:00 -0800'
 ---
 
